@@ -1,19 +1,3 @@
-# Admin Panel Boiler Plate
-## Cloning the application
-```
-git clone https://gitlab.com/shgupta1/admin-boilerplate.git
-```
-
-```
-cd admin-boilerplate
-```
-
-## Setting up the local environment variables
-
-### Create `.env` file at root of folder
-```
-REACT_APP_ACCOUNT=http://localhost:8010/api/v1
-```
 
 ## Installing Dependencies and Starting dev server
 ### Install packages
